@@ -1,0 +1,10 @@
+D:\Навчання\KH32\ООП\PZ13\PZ13\bin\Debug\PZ13.exe.config
+D:\Навчання\KH32\ООП\PZ13\PZ13\bin\Debug\PZ13.exe
+D:\Навчання\KH32\ООП\PZ13\PZ13\bin\Debug\PZ13.pdb
+D:\Навчання\KH32\ООП\PZ13\PZ13\obj\Debug\PZ13.csproj.AssemblyReference.cache
+D:\Навчання\KH32\ООП\PZ13\PZ13\obj\Debug\PZ13.Form1.resources
+D:\Навчання\KH32\ООП\PZ13\PZ13\obj\Debug\PZ13.Properties.Resources.resources
+D:\Навчання\KH32\ООП\PZ13\PZ13\obj\Debug\PZ13.csproj.GenerateResource.cache
+D:\Навчання\KH32\ООП\PZ13\PZ13\obj\Debug\PZ13.csproj.CoreCompileInputs.cache
+D:\Навчання\KH32\ООП\PZ13\PZ13\obj\Debug\PZ13.exe
+D:\Навчання\KH32\ООП\PZ13\PZ13\obj\Debug\PZ13.pdb

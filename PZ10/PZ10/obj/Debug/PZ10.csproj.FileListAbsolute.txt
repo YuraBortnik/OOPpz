@@ -1,0 +1,7 @@
+D:\Навчання\KH32\ООП\PZ10\PZ10\bin\Debug\PZ10.exe.config
+D:\Навчання\KH32\ООП\PZ10\PZ10\bin\Debug\PZ10.exe
+D:\Навчання\KH32\ООП\PZ10\PZ10\bin\Debug\PZ10.pdb
+D:\Навчання\KH32\ООП\PZ10\PZ10\obj\Debug\PZ10.csproj.AssemblyReference.cache
+D:\Навчання\KH32\ООП\PZ10\PZ10\obj\Debug\PZ10.csproj.CoreCompileInputs.cache
+D:\Навчання\KH32\ООП\PZ10\PZ10\obj\Debug\PZ10.exe
+D:\Навчання\KH32\ООП\PZ10\PZ10\obj\Debug\PZ10.pdb
