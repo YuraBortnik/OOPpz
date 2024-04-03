@@ -1,0 +1,7 @@
+D:\Навчання\KH32\ООП\Pz11\Pz11\obj\Debug\Pz11.csproj.AssemblyReference.cache
+D:\Навчання\KH32\ООП\Pz11\Pz11\obj\Debug\Pz11.csproj.CoreCompileInputs.cache
+D:\Навчання\KH32\ООП\Pz11\Pz11\bin\Debug\Pz11.exe.config
+D:\Навчання\KH32\ООП\Pz11\Pz11\bin\Debug\Pz11.exe
+D:\Навчання\KH32\ООП\Pz11\Pz11\bin\Debug\Pz11.pdb
+D:\Навчання\KH32\ООП\Pz11\Pz11\obj\Debug\Pz11.exe
+D:\Навчання\KH32\ООП\Pz11\Pz11\obj\Debug\Pz11.pdb
