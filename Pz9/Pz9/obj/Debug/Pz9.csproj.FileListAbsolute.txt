@@ -1,0 +1,7 @@
+D:\Навчання\KH32\ООП\Pz9\Pz9\obj\Debug\Pz9.csproj.AssemblyReference.cache
+D:\Навчання\KH32\ООП\Pz9\Pz9\obj\Debug\Pz9.csproj.CoreCompileInputs.cache
+D:\Навчання\KH32\ООП\Pz9\Pz9\bin\Debug\Pz9.exe.config
+D:\Навчання\KH32\ООП\Pz9\Pz9\bin\Debug\Pz9.exe
+D:\Навчання\KH32\ООП\Pz9\Pz9\bin\Debug\Pz9.pdb
+D:\Навчання\KH32\ООП\Pz9\Pz9\obj\Debug\Pz9.exe
+D:\Навчання\KH32\ООП\Pz9\Pz9\obj\Debug\Pz9.pdb
