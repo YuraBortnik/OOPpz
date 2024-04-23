@@ -1,0 +1,7 @@
+D:\Навчання\KH32\ООП\Seerver\Seerver\bin\Debug\Seerver.exe.config
+D:\Навчання\KH32\ООП\Seerver\Seerver\bin\Debug\Seerver.exe
+D:\Навчання\KH32\ООП\Seerver\Seerver\bin\Debug\Seerver.pdb
+D:\Навчання\KH32\ООП\Seerver\Seerver\obj\Debug\Seerver.csproj.AssemblyReference.cache
+D:\Навчання\KH32\ООП\Seerver\Seerver\obj\Debug\Seerver.csproj.CoreCompileInputs.cache
+D:\Навчання\KH32\ООП\Seerver\Seerver\obj\Debug\Seerver.exe
+D:\Навчання\KH32\ООП\Seerver\Seerver\obj\Debug\Seerver.pdb
