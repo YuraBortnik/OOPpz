@@ -1,0 +1,14 @@
+D:\Навчання\KH32\ООП\Chat\Chat\bin\Debug\Chat.exe.config
+D:\Навчання\KH32\ООП\Chat\Chat\bin\Debug\Chat.exe
+D:\Навчання\KH32\ООП\Chat\Chat\bin\Debug\Chat.pdb
+D:\Навчання\KH32\ООП\Chat\Chat\obj\Debug\Chat.csproj.AssemblyReference.cache
+D:\Навчання\KH32\ООП\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+D:\Навчання\KH32\ООП\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+D:\Навчання\KH32\ООП\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+D:\Навчання\KH32\ООП\Chat\Chat\obj\Debug\Chat.exe
+D:\Навчання\KH32\ООП\Chat\Chat\obj\Debug\Chat.pdb
+D:\Навчання\KH32\ООП\Chat\Chat\obj\Debug\Chat.Form1.resources
+D:\Навчання\KH32\ООП\Chat\Chat\obj\Debug\Chat.Form2.resources
+D:\Навчання\KH32\ООП\Chat\Chat\bin\Debug\Newtonsoft.Json.dll
+D:\Навчання\KH32\ООП\Chat\Chat\bin\Debug\Newtonsoft.Json.xml
+D:\Навчання\KH32\ООП\Chat\Chat\obj\Debug\Chat.csproj.Up2Date
