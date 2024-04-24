@@ -1,0 +1,13 @@
+D:\Навчання\KH32\ООП\PZ17\PZ17\bin\Debug\PZ17.exe.config
+D:\Навчання\KH32\ООП\PZ17\PZ17\bin\Debug\PZ17.exe
+D:\Навчання\KH32\ООП\PZ17\PZ17\bin\Debug\PZ17.pdb
+D:\Навчання\KH32\ООП\PZ17\PZ17\bin\Debug\Newtonsoft.Json.dll
+D:\Навчання\KH32\ООП\PZ17\PZ17\bin\Debug\Newtonsoft.Json.xml
+D:\Навчання\KH32\ООП\PZ17\PZ17\obj\Debug\PZ17.csproj.AssemblyReference.cache
+D:\Навчання\KH32\ООП\PZ17\PZ17\obj\Debug\PZ17.Form1.resources
+D:\Навчання\KH32\ООП\PZ17\PZ17\obj\Debug\PZ17.Properties.Resources.resources
+D:\Навчання\KH32\ООП\PZ17\PZ17\obj\Debug\PZ17.csproj.GenerateResource.cache
+D:\Навчання\KH32\ООП\PZ17\PZ17\obj\Debug\PZ17.csproj.CoreCompileInputs.cache
+D:\Навчання\KH32\ООП\PZ17\PZ17\obj\Debug\PZ17.csproj.Up2Date
+D:\Навчання\KH32\ООП\PZ17\PZ17\obj\Debug\PZ17.exe
+D:\Навчання\KH32\ООП\PZ17\PZ17\obj\Debug\PZ17.pdb
